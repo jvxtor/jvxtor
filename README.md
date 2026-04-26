@@ -2,21 +2,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=em%20formação%20%7C%20construindo%20o%20futuro%20uma%20linha%20por%20vez&descAlignY=58&descSize=16&descColor=a78bfa" />
 
-<!-- Medal + Typing SVG -->
-<img src="https://educ.rec.br/educ/assets/logo_embarque_medio.png" width="60" alt="Embarque Digital"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Desenvolvedor+Full+Stack+em+formação+%F0%9F%9A%80;Kotlin+%7C+Node.js+%7C+React+%7C+APIs;Transformando+ideias+em+código+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8" alt="Typing SVG" />
-</a>
-<br/>
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=7c3aed&label=VISITANTES" alt="Profile Views"/>
-</div>
-
----
-
-<div align="center">
 
 ## 🛠️ Stack Tecnológica
 
