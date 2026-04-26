@@ -1,8 +1,23 @@
 <div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+
+<img src="party-furby.gif" align="right" width="60">
+
+<br>
+
+![](under-construction.gif)
+
+<br>
+
+<div align="center">
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=em%20formação%20%7C%20construindo%20o%20futuro%20uma%20linha%20por%20vez&descAlignY=58&descSize=16&descColor=a78bfa" />
-
-
 
 ## 🛠️ Stack Tecnológica
 
@@ -32,6 +47,12 @@
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
-</div>
+<br>
 
----
+![](flames.gif)
+
+<br>
+
+![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
+
+</div>
