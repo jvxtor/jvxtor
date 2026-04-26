@@ -19,28 +19,6 @@
 
 <div align="center">
 
-## 👨‍💻 Sobre Mim
-
-</div>
-
-```kotlin
-data class Developer(
-    val nome: String        = "Seu Nome Aqui",
-    val foco: String        = "Full Stack Development",
-    val status: String      = "Em formação & evoluindo todo dia",
-    val paixao: String      = "Transformar ideias em produtos reais",
-    val stacks: List<String> = listOf("Kotlin", "Node.js", "React", "APIs REST"),
-    val aprendendo: String  = "Arquitetura de Software & Clean Code",
-    val meta2025: String    = "Contribuir para projetos Open Source 🎯"
-)
-
-fun main() {
-    val eu = Developer()
-    println("🚀 Pronto para construir o próximo grande projeto!")
-}
-```
-
----
 
 <div align="center">
 
@@ -86,65 +64,5 @@ fun main() {
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=c4c4f4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4c4f4"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=c4c4f4&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b6b8a" />
-
-</div>
 
 ---
-
-<div align="center">
-
-## 🚀 Em Construção
-
-</div>
-
-> 💡 *"O melhor código que já escrevi é o próximo que vou escrever."*
-
-<div align="center">
-
-| 🌱 Aprendendo Agora | 🎯 Próximos Passos | 🔥 Objetivos |
-|:---:|:---:|:---:|
-| Arquitetura de Microsserviços | Contribuir para Open Source | Primeiro emprego como Dev |
-| Clean Architecture | Deploy com CI/CD | Construir um SaaS |
-| Testes automatizados | Cloud (AWS/GCP) | Comunidade Dev 🇧🇷 |
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Vamos Conectar?
-
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/SEU_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
