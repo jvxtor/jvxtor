@@ -1,42 +1,32 @@
 <div align="center">
-
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=em%20formação%20%7C%20construindo%20o%20futuro%20uma%20linha%20por%20vez&descAlignY=58&descSize=16&descColor=a78bfa" />
+
+<!-- Medal + Typing SVG -->
+<img src="https://educ.rec.br/educ/assets/logo_embarque_medio.png" width="60" alt="Embarque Digital"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Desenvolvedor+Full+Stack+em+formação+%F0%9F%9A%80;Kotlin+%7C+Node.js+%7C+React+%7C+APIs;Transformando+ideias+em+código+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=7c3aed&label=VISITANTES" alt="Profile Views"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-
-<div align="center">
-
 ## 🛠️ Stack Tecnológica
 
-</div>
-
-<div align="center">
-
 ### 💜 Mobile & Backend
-
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
 ### 💙 Frontend
-
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -44,14 +34,12 @@
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### 🔗 APIs & Banco de Dados
-
 <img src="https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### ⚙️ Ferramentas
-
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -59,10 +47,5 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
 </div>
-
----
-
-<div align="center">
-
 
 ---
