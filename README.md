@@ -70,14 +70,6 @@ Gosto de transformar operação bagunçada em sistema simples, útil e pronto pa
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jvxtor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvxtor&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 💬 Vamos conversar?
 
