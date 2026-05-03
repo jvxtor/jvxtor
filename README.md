@@ -22,33 +22,6 @@ Trabalho com desenvolvimento de sistemas web, landing pages, dashboards administ
 
 Gosto de transformar operação bagunçada em sistema simples, útil e pronto para uso.
 
----
-
-## 🚀 O que eu construo
-
-- Sistemas web personalizados
-- Portais do cliente
-- Dashboards administrativos
-- Automações com IA
-- Landing pages de alta conversão
-- Integrações com APIs e serviços externos
-- Infraestrutura, deploy e DevOps
-- Sistemas com Firebase, autenticação, permissões e notificações
-
----
-
-## 🧩 Alguns projetos entregues
-
-### Alê Uchôa Regularizações
-Sistema administrativo e portal do cliente para acompanhamento de processos, documentos, clientes e notificações.
-
-### Vinicius Nogueira Advocacia
-Site institucional e sistema de gestão jurídica com área administrativa, consulta de processos, agenda e clientes.
-
-### AKAD - Adriano Karate-Do
-Site e plataforma para academia de karatê com gestão de alunos, frequência, mensalidades, horários, loja e área do aluno.
-
----
 
 ## 🛠️ Stack tecnológica
 
