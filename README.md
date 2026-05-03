@@ -1,38 +1,124 @@
 <div align="center">
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=em%20formação%20%7C%20construindo%20o%20futuro%20uma%20linha%20por%20vez&descAlignY=58&descSize=16&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:2563eb,100:06b6d4&height=220&section=header&text=Jo%C3%A3o%20Victor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Automa%C3%A7%C3%B5es%20%7C%20IA%20Aplicada&descAlignY=58&descSize=17&descColor=bae6fd" />
 
-## 🛠️ Stack Tecnológica
-
-### 💜 Mobile & Backend
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-
-### 💙 Frontend
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-### 🔗 APIs & Banco de Dados
-<img src="https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-
-### ⚙️ Ferramentas
-<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-
+  <a href="https://github.com/jvxtor">
+    <img src="https://img.shields.io/badge/GitHub-jvxtor-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jvxtor/">
+    <img src="https://img.shields.io/badge/LinkedIn-jvxtor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jvxtorr/">
+    <img src="https://img.shields.io/badge/Instagram-jvxtorr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 ---
+
+## 👋 Sobre mim
+
+Sou **João Victor**, desenvolvedor **Full Stack & DevOps** focado em criar soluções digitais completas para empresas.
+
+Trabalho com desenvolvimento de sistemas web, landing pages, dashboards administrativos, automações, integrações com APIs, Firebase, cloud, IA aplicada e fluxos que realmente ajudam empresas a organizar processos, atender melhor e ganhar produtividade.
+
+Gosto de transformar operação bagunçada em sistema simples, útil e pronto para uso.
+
+---
+
+## 🚀 O que eu construo
+
+- Sistemas web personalizados
+- Portais do cliente
+- Dashboards administrativos
+- Automações com IA
+- Landing pages de alta conversão
+- Integrações com APIs e serviços externos
+- Infraestrutura, deploy e DevOps
+- Sistemas com Firebase, autenticação, permissões e notificações
+
+---
+
+## 🧩 Alguns projetos entregues
+
+### Alê Uchôa Regularizações
+Sistema administrativo e portal do cliente para acompanhamento de processos, documentos, clientes e notificações.
+
+### Vinicius Nogueira Advocacia
+Site institucional e sistema de gestão jurídica com área administrativa, consulta de processos, agenda e clientes.
+
+### AKAD - Adriano Karate-Do
+Site e plataforma para academia de karatê com gestão de alunos, frequência, mensalidades, horários, loja e área do aluno.
+
+---
+
+## 🛠️ Stack tecnológica
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logo=webhook&logoColor=white" />
+</p>
+
+### Banco de dados & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+### DevOps & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### IA, automações e integrações
+<p>
+  <img src="https://img.shields.io/badge/IA_Aplicada-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automações-2563EB?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jvxtor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvxtor&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 💬 Vamos conversar?
+
+Se você tem uma ideia, processo manual demais ou precisa transformar operação em sistema, me chama.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jvxtor/">
+    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jvxtorr/">
+    <img src="https://img.shields.io/badge/Me_chamar_no_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0b1020&height=120&section=footer" />
+</div>
