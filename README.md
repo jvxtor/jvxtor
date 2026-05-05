@@ -63,19 +63,3 @@ Gosto de transformar operação bagunçada em sistema simples, útil e pronto pa
 ---
 
 
-## 💬 Vamos conversar?
-
-Se você tem uma ideia, processo manual demais ou precisa transformar operação em sistema, me chama.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jvxtor/">
-    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/jvxtorr/">
-    <img src="https://img.shields.io/badge/Me_chamar_no_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0b1020&height=120&section=footer" />
-</div>
