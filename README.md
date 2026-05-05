@@ -52,12 +52,12 @@ Gosto de transformar operação bagunçada em sistema simples, útil e pronto pa
 
 
 
-### IA, automações e integrações
+### Automações e integrações
 <p>
-  <img src="https://img.shields.io/badge/IA_Aplicada-111827?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Automações-2563EB?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ---
