@@ -14,16 +14,6 @@
 
 ---
 
-## 👋 Sobre mim
-
-Sou **João Victor**, desenvolvedor **Full Stack & DevOps** focado em criar soluções digitais completas para empresas.
-
-Trabalho com desenvolvimento de sistemas web, landing pages, dashboards administrativos, automações, integrações com APIs, Firebase, cloud, IA aplicada e fluxos que realmente ajudam empresas a organizar processos, atender melhor e ganhar produtividade.
-
-Gosto de transformar operação bagunçada em sistema simples, útil e pronto para uso.
-
-
-## 🛠️ Stack tecnológica
 
 ### Frontend
 <p>
