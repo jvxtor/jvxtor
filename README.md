@@ -1,17 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:2563eb,100:06b6d4&height=220&section=header&text=Jo%C3%A3o%20Victor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Automa%C3%A7%C3%B5es%20%7C%20IA%20Aplicada&descAlignY=58&descSize=17&descColor=bae6fd" />
 
-  <a href="https://github.com/jvxtor">
-    <img src="https://img.shields.io/badge/GitHub-jvxtor-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jvxtor/">
-    <img src="https://img.shields.io/badge/LinkedIn-jvxtor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/jvxtorr/">
-    <img src="https://img.shields.io/badge/Instagram-jvxtorr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
 ---
 
 
