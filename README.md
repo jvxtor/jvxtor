@@ -8,7 +8,7 @@
 💻 Hard Skills:
 <p align="left">
 
- [![Minhas Habilidades](https://skillicons.dev/icons?i=tailwind,ts,react,nodejs,python,nest,n8n)](https://skillicons.dev)
+ [![Minhas Habilidades](https://skillicons.dev/icons?i=ts,react,nodejs,python,nest,firebase,docker,)](https://skillicons.dev)
 </p>
 
 <p align="left">
