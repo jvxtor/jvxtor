@@ -1,5 +1,5 @@
 <p align="left"> 
-  👋 Olá, eu sou o <b>João Victor</b>. Atualmente, estou estudando desenvolvimento full-stack.<br>
+  👋 Olá, eu sou o <b>João Victor</b>. Atualmente, estou trabalhando com desenvolvimento full-stack.<br>
 </p>
 <p align="left"> 
   🧠 Foco no desenvolvimento web e de aplicações.
